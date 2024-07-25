@@ -4,3 +4,6 @@ docker:26.1.4
 jenkins:2.7.1
 nacos/nacos-server:v2.4.0
 mysql:5.7
+redis:6.0.8
+
+
