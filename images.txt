@@ -1,4 +1,3 @@
-jenkins/jenkins:latest
-
+jenkins/jenkins:2.469-jdk17
 
 
