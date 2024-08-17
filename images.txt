@@ -1,3 +1,6 @@
-nacos/nacos-server:v2.4.0.1
+redis:5.0.7
+nacos-server:v2.1.2
+rabbitmq:3.9.23-management
+minio:latest
 
 
