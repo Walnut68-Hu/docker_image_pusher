@@ -1,6 +1,6 @@
 redis:5.0.7
-nacos-server:v2.1.2
+nacos/nacos-server:v2.1.2
 rabbitmq:3.9.23-management
-minio:latest
+minio/minio:latest
 
 
